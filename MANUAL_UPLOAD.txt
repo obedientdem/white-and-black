@@ -1,0 +1,4 @@
+使用 GitHub Desktop 克隆 obedientdem/white-and-black，复制本压缩包内全部文件到仓库目录（覆盖 README，保留仓库原有 .git 文件夹），Commit to main，然后 Push origin。
+GitHub Settings > Pages：Source 选择 Deploy from a branch，Branch 选择 main，Folder 选择 / (root)，Save。
+等待 Actions 中 pages build and deployment 完成后打开 https://obedientdem.github.io/white-and-black/zh/
+本包已经包含完整源码和可直接发布的静态文件，不需要先安装 Node.js 或运行 npm。
